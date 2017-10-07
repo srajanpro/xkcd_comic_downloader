@@ -2,7 +2,7 @@
 #Run the code by typing: python3 xkcd_comic_downloader.py to make it work correctly
 #Also don't forget to change the directory in the program, where you want your downloaded files to be saved
 #All the downloaded comics are saved in /home/srajan/Downloads (In this program) 
-#Written by SRAJAN GUPTA (2nd year)
+#Written by SRAJAN GUPTA
 
 from bs4 import BeautifulSoup
 import requests
